@@ -5,6 +5,7 @@ var colors = {
   'duplicate': 'ededed',
   'greenkeeper': 'ededed',
   'good first issue': '7057ff',
+  'help wanted': '128A0C',
   'starter': 'ffc0cb',
   'Priority: Critical': 'ee0701',
   'Priority: High': 'd93f0b',
